@@ -1,0 +1,4 @@
+imports:
+    - { resource: config_dev.yml }
+    - { resource: framework/framework_test.yml }
+    - { resource: profiler/profiler_test.yml }

@@ -1,0 +1,5 @@
+imports:
+    - { resource: ../parameters/parameters.yml }
+    - { resource: framework/framework.yml }
+    - { resource: logging/logging.yml }
+    - { resource: security/security.yml }

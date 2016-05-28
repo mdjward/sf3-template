@@ -1,0 +1,5 @@
+imports:
+    - { resource: config.yml }
+    - { resource: logging/logging_dev.yml }
+    - { resource: profiler/profiler_dev.yml }
+
